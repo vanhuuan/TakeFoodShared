@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Voucher;
+﻿namespace TakeFoodShared.Model.Entities.Voucher;
 
 public class Voucher
 {

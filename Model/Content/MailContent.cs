@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Content;
+﻿namespace TakeFoodShared.Model.Content;
 
 public class MailContent
 {

@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Review;
+﻿namespace TakeFoodShared.Model.Entities.Review;
 
 public class Review
 {

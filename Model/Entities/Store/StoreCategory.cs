@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Store;
+﻿namespace TakeFoodShared.Model.Entities.Store;
 
 public class StoreCategory
 {

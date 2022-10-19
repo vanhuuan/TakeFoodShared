@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.User;
+namespace TakeFoodShared.Model.Entities.User;
 
 /// <summary>
 /// System User

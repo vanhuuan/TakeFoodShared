@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace AuthenticationService.ViewModel.Response;
+namespace TakeFoodShared.ViewModel.Response;
 
 /// <summary>
 /// Object response

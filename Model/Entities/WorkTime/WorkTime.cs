@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.WorkTime;
+﻿namespace TakeFoodShared.Model.Entities.WorkTime;
 
 public class WorkTime
 {

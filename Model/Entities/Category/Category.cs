@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.Category;
+namespace TakeFoodShared.Model.Entities.Category;
 
 /// <summary>
 /// Category shared

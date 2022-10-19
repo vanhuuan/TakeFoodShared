@@ -1,7 +1,7 @@
-﻿using AuthenticationService.ViewModel.Dtos;
-using AuthenticationService.ViewModel.Dtos.User;
+﻿using TakeFoodShared.ViewModel.Dtos;
+using TakeFoodShared.ViewModel.Dtos.User;
 
-namespace AuthenticationService.Service;
+namespace TakeFoodShared.Service;
 
 /// <summary>
 /// IUserService

@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.Role;
+namespace TakeFoodShared.Model.Entities.Role;
 
 public class Role : ModelMongoDB
 {

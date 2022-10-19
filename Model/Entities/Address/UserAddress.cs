@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.Address;
+namespace TakeFoodShared.Model.Entities.Address;
 
 public class UserAddress : ModelMongoDB
 {

@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Image;
+﻿namespace TakeFoodShared.Model.Entities.Image;
 
 public class Image
 {

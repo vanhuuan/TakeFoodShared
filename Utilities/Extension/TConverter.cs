@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace AuthenticationService.Utilities.Extension;
+namespace TakeFoodShared.Utilities.Extension;
 
 /// <summary>
 /// Convert object to class T 

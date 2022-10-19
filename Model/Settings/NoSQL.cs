@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Settings;
+﻿namespace TakeFoodShared.Settings;
 
 /// <summary>
 /// No sql

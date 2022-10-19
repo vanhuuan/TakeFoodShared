@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Topping;
+﻿namespace TakeFoodShared.Model.Entities.Topping;
 
 public class Topping
 {

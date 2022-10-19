@@ -1,12 +1,12 @@
-﻿using AuthenticationService.Model.Entities.Role;
-using AuthenticationService.Model.Entities.User;
-using AuthenticationService.Model.Repository;
-using AuthenticationService.ViewModel.Dtos;
-using AuthenticationService.ViewModel.Dtos.User;
+﻿using TakeFoodShared.Model.Entities.Role;
+using TakeFoodShared.Model.Entities.User;
+using TakeFoodShared.Model.Repository;
+using TakeFoodShared.ViewModel.Dtos;
+using TakeFoodShared.ViewModel.Dtos.User;
 using MongoDB.Bson;
 using BC = BCrypt.Net.BCrypt;
 
-namespace AuthenticationService.Service.Implement;
+namespace TakeFoodShared.Service.Implement;
 
 public class UserService : IUserService
 {

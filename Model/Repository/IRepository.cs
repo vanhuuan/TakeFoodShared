@@ -1,7 +1,7 @@
-﻿using AuthenticationService.Model.Entities;
+﻿using TakeFoodShared.Model.Entities;
 using System.Linq.Expressions;
 
-namespace AuthenticationService.Model.Repository;
+namespace TakeFoodShared.Model.Repository;
 
 public interface IRepository
 {

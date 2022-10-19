@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.Store;
+namespace TakeFoodShared.Model.Entities.Store;
 
 
 /// <summary>

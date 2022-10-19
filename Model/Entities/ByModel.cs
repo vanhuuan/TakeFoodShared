@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 using System.Text.Json.Serialization;
 
-namespace AuthenticationService.Model.Entities
+namespace TakeFoodShared.Model.Entities
 {
     public class ByModel
     {

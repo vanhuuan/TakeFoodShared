@@ -1,7 +1,7 @@
-﻿using AuthenticationService.Model.Entities;
+﻿using TakeFoodShared.Model.Entities;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace AuthenticationService.Model.Entities.User;
+namespace TakeFoodShared.Model.Entities.User;
 
 public class UserRefreshToken : ModelMongoDB
 {

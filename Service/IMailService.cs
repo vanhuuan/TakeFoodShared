@@ -1,6 +1,6 @@
-﻿using AuthenticationService.Model.Content;
+﻿using TakeFoodShared.Model.Content;
 
-namespace AuthenticationService.Service;
+namespace TakeFoodShared.Service;
 
 public interface IMailService
 {

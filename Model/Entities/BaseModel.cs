@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Text.Json.Serialization;
 
-namespace AuthenticationService.Model.Entities;
+namespace TakeFoodShared.Model.Entities;
 
 /// <summary>
 /// Base Model Update User 

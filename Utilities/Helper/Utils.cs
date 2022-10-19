@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace AuthenticationService.Utilities.Helper;
+namespace TakeFoodShared.Utilities.Helper;
 
 public static class Utils
 {

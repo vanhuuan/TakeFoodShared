@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace AuthenticationService.ViewModel.Dtos.User;
+namespace TakeFoodShared.ViewModel.Dtos.User;
 
 /// <summary>
 /// Login DTO

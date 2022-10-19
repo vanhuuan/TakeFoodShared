@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace AuthenticationService.Utilities.Converter;
+namespace TakeFoodShared.Utilities.Converter;
 
 public class DateTimeConverter : JsonConverter<DateTime?>
 {

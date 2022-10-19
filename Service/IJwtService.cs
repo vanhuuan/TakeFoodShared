@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Service;
+﻿namespace TakeFoodShared.Service;
 
 /// <summary>
 /// Interface Jwt Service

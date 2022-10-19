@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.ViewModel.Resource;
+﻿namespace TakeFoodShared.ViewModel.Resource;
 
 
 /// <summary>

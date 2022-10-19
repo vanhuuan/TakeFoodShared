@@ -1,10 +1,10 @@
-﻿using AuthenticationService.Utilities.Converter;
+﻿using TakeFoodShared.Utilities.Converter;
 using MongoDB.Bson.Serialization.Attributes;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
-namespace AuthenticationService.Model.Entities;
+namespace TakeFoodShared.Model.Entities;
 
 /// <summary>
 /// Model class

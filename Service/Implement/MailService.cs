@@ -1,9 +1,9 @@
-﻿using AuthenticationService.Model.Content;
-using AuthenticationService.Settings;
+﻿using TakeFoodShared.Model.Content;
+using TakeFoodShared.Settings;
 using MailKit.Security;
 using MimeKit;
 
-namespace AuthenticationService.Service.Implement;
+namespace TakeFoodShared.Service.Implement;
 
 public class MailService : IMailService
 {

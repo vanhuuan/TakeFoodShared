@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace AuthenticationService.ViewModel.Dtos;
+namespace TakeFoodShared.ViewModel.Dtos;
 
 public class UserViewDto
 {

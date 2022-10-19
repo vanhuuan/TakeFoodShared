@@ -1,7 +1,7 @@
-﻿using AuthenticationService.Utilities.Helper;
+﻿using TakeFoodShared.Utilities.Helper;
 using System.Text.Json;
 
-namespace AuthenticationService.Utilities.Extension;
+namespace TakeFoodShared.Utilities.Extension;
 
 /// <summary>
 /// My extension

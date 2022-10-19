@@ -1,4 +1,4 @@
-﻿namespace AuthenticationService.Model.Entities.Order;
+﻿namespace TakeFoodShared.Model.Entities.Order;
 
 public class Order
 {

@@ -1,11 +1,11 @@
-﻿using AuthenticationService.Model.Entities;
-using AuthenticationService.Utilities.Helper;
+﻿using TakeFoodShared.Model.Entities;
+using TakeFoodShared.Utilities.Helper;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 using System.Linq.Expressions;
 
-namespace AuthenticationService.Model.Repository;
+namespace TakeFoodShared.Model.Repository;
 
 /// <summary>
 /// Mongodb repository 

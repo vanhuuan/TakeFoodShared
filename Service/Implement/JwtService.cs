@@ -1,12 +1,12 @@
-﻿using AuthenticationService.Model.Entities.User;
-using AuthenticationService.Model.Repository;
+﻿using TakeFoodShared.Model.Entities.User;
+using TakeFoodShared.Model.Repository;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
 
-namespace AuthenticationService.Service.Implement;
+namespace TakeFoodShared.Service.Implement;
 
 
 public class JwtService : IJwtService
